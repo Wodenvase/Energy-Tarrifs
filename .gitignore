@@ -1,0 +1,4 @@
+results/
+*.jl1
+*.csv
+manifest.toml
