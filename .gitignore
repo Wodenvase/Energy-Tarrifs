@@ -1,4 +1,4 @@
-results/
-*.jl1
-*.csv
+#. Keep results in repo for reproducible figures
+# Ignore machine-specific files
+.DS_Store
 manifest.toml
