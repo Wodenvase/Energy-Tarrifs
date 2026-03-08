@@ -3,12 +3,6 @@ Modeling Electricity Prices and Tariff Dynamics Under Renewable Penetration
 
 > **Core research deliverable: reproducible results that quantify how renewable penetration changes wholesale price levels, price volatility, and retail tariff stability.**
 
-This repository contains a compact Julia framework that: (1) generates or ingests supply/demand and price inputs, (2) computes a merit-order wholesale price series, (3) measures how price statistics vary with renewable share, and (4) quantifies retail tariff pass-through and scenario risk under alternative renewable penetration levels.
-
----
-
-**🎯 Research Question**
-
 How does increasing renewable penetration affect wholesale electricity price mean and volatility, and what are the implications for retail tariff stability under realistic pass‑through?
 
 Key hypotheses:
@@ -123,11 +117,4 @@ Output files and formats are documented in Section IV of this repository. For pr
 - Deane, J. P., Ó Gallachóir, B. P., & McKeogh, E. J. (2012). Quantifying the system costs of additional balancing and frequency control with increasing levels of wind generation. *Energy Policy.*
 - ENTSO‑E Transparency Platform; EPEX SPOT; Nord Pool (data sources).
 
-9. Contact
-----------
-Dipanta Bhattacharyya — for questions, data requests, or collaboration proposals.
-
-If you would like, I can (select one):
-- prepare `results/FIGURES.md` with manuscript-ready captions and suggested figure panels, or
-- implement ENTSO‑E ingestion and demonstrate a real-data analysis for a selected market (Germany recommended).
 
